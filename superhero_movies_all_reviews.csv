@@ -1,0 +1,299 @@
+movie_title,year,universe,source,rating,date,text,language,sentiment
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-01-16,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,2,2019-11-06,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,6,2019-07-10,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,3,2019-11-24,"Cumple con lo esperado, ni más ni menos. Buena para pasar el rato pero no revoluciona nada. 3/10.",en,neutral
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-01-24,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 4/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,7,2019-07-25,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,3,2019-08-22,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 3/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,6,2019-06-13,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,5,2019-09-13,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 5/10.,en,negativa
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-09-20,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 4/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-06-18,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,10,2019-02-08,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 10/10.,en,negativa
+Avengers: Endgame,2019,Marvel,IMDb,7,2019-10-03,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,3,2019-06-15,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,6,2019-09-04,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-08-13,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 4/10.,en,neutral
+Avengers: Endgame,2019,Marvel,IMDb,8,2019-08-14,"Cumple con lo esperado, ni más ni menos. Buena para pasar el rato pero no revoluciona nada. 8/10.",en,neutral
+Avengers: Endgame,2019,Marvel,IMDb,3,2019-09-23,"Una adición decente a la saga, aunque no destaca particularmente. 3/10.",en,neutral
+Avengers: Endgame,2019,Marvel,IMDb,5,2019-05-01,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 5/10.,es,negativa
+Avengers: Endgame,2019,Marvel,IMDb,7,2019-06-22,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 7/10.,es,negativa
+Avengers: Endgame,2019,Marvel,IMDb,8,2019-10-06,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 8/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-06-25,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 4/10.,es,negativa
+Avengers: Endgame,2019,Marvel,IMDb,9,2019-04-14,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,2,2019-11-18,"Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 2/10.",es,neutral
+Avengers: Endgame,2019,Marvel,IMDb,3,2019-11-13,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 3/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,5,2019-01-13,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 5/10.,en,negativa
+Avengers: Endgame,2019,Marvel,IMDb,9,2019-03-05,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 9/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,1,2019-11-26,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 1/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,7,2019-08-13,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,1,2019-10-13,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 1/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-12-08,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 4/10.,es,negativa
+Avengers: Endgame,2019,Marvel,IMDb,9,2019-09-18,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 9/10.,en,negativa
+Avengers: Endgame,2019,Marvel,IMDb,8,2019-11-07,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 8/10.,es,negativa
+Avengers: Endgame,2019,Marvel,IMDb,4,2019-11-26,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 4/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,9,2019-03-14,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.,es,positiva
+Avengers: Endgame,2019,Marvel,IMDb,2,2019-12-17,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 2/10.,es,negativa
+Avengers: Endgame,2019,Marvel,IMDb,6,2019-03-14,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,7,2019-06-22,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 7/10.,en,positiva
+Avengers: Endgame,2019,Marvel,IMDb,6,2019-10-27,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),0.8,2019-09-17,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),6,2019-10-12,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),0.4,2019-02-20,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),8.7,2019-07-27,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),10,2019-06-01,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),10,2019-07-27,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),9.8,2019-02-25,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),2,2019-07-05,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),2,2019-11-03,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),4,2019-09-27,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),4,2019-04-26,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),2,2019-05-10,Una decepción considerando las altas expectativas generadas.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),6,2019-05-21,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),9.4,2019-01-14,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),1.6,2019-06-14,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),4,2019-01-02,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),0.3,2019-10-24,Una decepción considerando las altas expectativas generadas.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Audience),4,2019-12-08,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),5.9,2019-03-21,Una decepción considerando las altas expectativas generadas.,en,negativa
+Avengers: Endgame,2019,Marvel,Rotten Tomatoes (Critic),7.9,2019-02-10,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+The Dark Knight,2008,DC,IMDb,10,2019-02-07,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 10/10.,en,negativa
+The Dark Knight,2008,DC,IMDb,3,2019-03-13,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,10,2019-02-25,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,3,2019-09-10,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,10,2019-07-23,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,1,2019-02-26,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 1/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,5,2019-10-10,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 5/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,1,2019-07-12,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 1/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,4,2019-05-01,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 4/10.,en,neutral
+The Dark Knight,2008,DC,IMDb,8,2019-05-05,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 8/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,3,2019-09-22,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,1,2019-07-02,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 1/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,10,2019-11-06,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,4,2019-01-18,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 4/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,5,2019-10-25,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,6,2019-01-02,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,9,2019-08-24,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 9/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,7,2019-08-16,Los efectos especiales no compensan la falta de profundidad en la historia. 7/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,8,2019-03-23,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 8/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,9,2019-04-16,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,7,2019-04-08,Los efectos especiales no compensan la falta de profundidad en la historia. 7/10.,en,negativa
+The Dark Knight,2008,DC,IMDb,9,2019-05-25,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 9/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,7,2019-07-09,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,2,2019-05-17,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 2/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,8,2019-12-22,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 8/10.,es,positiva
+The Dark Knight,2008,DC,IMDb,3,2019-07-27,Los efectos especiales no compensan la falta de profundidad en la historia. 3/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,5,2019-07-26,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 5/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,7,2019-12-25,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 7/10.,en,negativa
+The Dark Knight,2008,DC,IMDb,6,2019-01-23,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 6/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,6,2019-06-21,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 6/10.,es,neutral
+The Dark Knight,2008,DC,IMDb,7,2019-05-28,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 7/10.,en,negativa
+The Dark Knight,2008,DC,IMDb,1,2019-09-07,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 1/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,10,2019-10-15,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 10/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,2,2019-06-20,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,7,2019-04-26,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 7/10.,es,negativa
+The Dark Knight,2008,DC,IMDb,7,2019-01-17,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 7/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,1,2019-10-25,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 1/10.,en,positiva
+The Dark Knight,2008,DC,IMDb,10,2019-10-17,"Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 10/10.",en,neutral
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),6,2019-04-23,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),8,2019-12-28,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),0.4,2019-05-11,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),7.8,2019-07-20,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),4.0,2019-12-17,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),10,2019-01-01,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),2,2019-02-25,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),4.4,2019-04-14,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),9.3,2019-06-09,Visualmente impresionante con una narrativa emocionalmente satisfactoria.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),5.6,2019-07-19,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),10.0,2019-05-17,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),5.3,2019-04-04,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),7.7,2019-02-07,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),10,2019-11-13,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),1.2,2019-01-25,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),2,2019-06-08,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),4,2019-05-18,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),6.9,2019-06-07,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Audience),8,2019-07-03,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+The Dark Knight,2008,DC,Rotten Tomatoes (Critic),9.9,2019-11-13,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-03-08,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 3/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,10,2019-11-12,"Cumple con lo esperado, ni más ni menos. Buena para pasar el rato pero no revoluciona nada. 10/10.",en,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,6,2019-06-09,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 6/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,4,2019-08-15,"Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 4/10.",en,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,4,2019-06-08,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 4/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,1,2019-05-22,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 1/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,6,2019-02-06,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 6/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-01-26,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-07-05,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 3/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,2,2019-02-19,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 2/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,4,2019-06-03,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 4/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,10,2019-05-28,Los efectos especiales no compensan la falta de profundidad en la historia. 10/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-08-06,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 3/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,5,2019-09-17,"Una adición decente a la saga, aunque no destaca particularmente. 5/10.",es,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-02-18,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,8,2019-01-20,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 8/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-02-19,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,8,2019-05-05,Tiene sus momentos buenos y malos. Entretenida pero olvidable. 8/10.,es,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,3,2019-12-17,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 3/10.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,6,2019-05-08,"Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 6/10.",en,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,9,2019-04-14,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 9/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,10,2019-09-11,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 10/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,2,2019-06-28,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 2/10.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,9,2019-10-06,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 9/10.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,1,2019-02-14,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 1/10.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,9,2019-08-20,Tiene sus momentos buenos y malos. Entretenida pero olvidable. 9/10.,en,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,7,2019-04-11,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 7/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,10,2019-05-17,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 10/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,10,2019-11-15,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 10/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,2,2019-01-06,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 2/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,8,2019-01-21,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 8/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,2,2019-10-19,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 2/10.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,5,2019-01-23,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 5/10.,es,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,9,2019-10-06,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 9/10.,es,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,1,2019-08-14,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 1/10.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,4,2019-08-25,Tiene sus momentos buenos y malos. Entretenida pero olvidable. 4/10.,es,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,9,2019-06-13,"Una adición decente a la saga, aunque no destaca particularmente. 9/10.",es,neutral
+Spider-Man: Into the Spider-Verse,2018,Marvel,IMDb,5,2019-09-18,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),2,2019-06-08,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),10,2019-10-09,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),8.3,2019-11-08,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),8,2019-09-15,Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),0.4,2019-09-20,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),6,2019-06-09,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),4,2019-08-17,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),10,2019-05-14,Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),6,2019-11-05,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),10,2019-04-25,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),2,2019-11-11,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),4.0,2019-05-13,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),3.6,2019-07-04,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),4.3,2019-07-16,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),2,2019-04-23,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),2,2019-12-27,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),6.3,2019-10-10,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Audience),10,2019-03-14,Visualmente impresionante con una narrativa emocionalmente satisfactoria.,en,positiva
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),3.1,2019-11-21,Una decepción considerando las altas expectativas generadas.,en,negativa
+Spider-Man: Into the Spider-Verse,2018,Marvel,Rotten Tomatoes (Critic),1.4,2019-09-02,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Black Panther,2018,Marvel,IMDb,6,2019-08-01,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,8,2019-03-16,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 8/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,9,2019-08-07,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 9/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,6,2019-05-22,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,4,2019-11-20,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 4/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,5,2019-04-08,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 5/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,10,2019-01-17,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 10/10.,en,neutral
+Black Panther,2018,Marvel,IMDb,6,2019-04-28,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 6/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,4,2019-02-01,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 4/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,6,2019-11-24,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,2,2019-02-15,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 2/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,3,2019-10-05,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 3/10.,en,negativa
+Black Panther,2018,Marvel,IMDb,7,2019-10-12,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 7/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,10,2019-02-15,Los efectos especiales no compensan la falta de profundidad en la historia. 10/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,1,2019-05-02,Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 1/10.,en,negativa
+Black Panther,2018,Marvel,IMDb,10,2019-12-20,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 10/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,8,2019-08-15,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,2,2019-07-11,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 2/10.,en,neutral
+Black Panther,2018,Marvel,IMDb,9,2019-06-13,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 9/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,8,2019-12-11,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 8/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,6,2019-05-12,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,8,2019-10-04,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.,en,negativa
+Black Panther,2018,Marvel,IMDb,2,2019-07-09,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 2/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,9,2019-11-06,Tiene sus momentos buenos y malos. Entretenida pero olvidable. 9/10.,en,neutral
+Black Panther,2018,Marvel,IMDb,4,2019-09-18,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 4/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,8,2019-06-04,Los efectos especiales no compensan la falta de profundidad en la historia. 8/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,2,2019-05-11,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 2/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,4,2019-04-15,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 4/10.,en,neutral
+Black Panther,2018,Marvel,IMDb,4,2019-02-01,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,1,2019-02-15,Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 1/10.,es,negativa
+Black Panther,2018,Marvel,IMDb,6,2019-12-22,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 6/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,5,2019-04-22,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,10,2019-08-23,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 10/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,10,2019-12-03,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 10/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,10,2019-02-15,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 10/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,3,2019-05-19,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,10,2019-03-28,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,5,2019-12-27,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 5/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,7,2019-12-20,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 7/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,2,2019-05-01,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.,es,positiva
+Black Panther,2018,Marvel,IMDb,1,2019-07-05,"Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 1/10.",en,neutral
+Black Panther,2018,Marvel,IMDb,5,2019-05-09,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.,en,positiva
+Black Panther,2018,Marvel,IMDb,6,2019-01-03,"Una adición decente a la saga, aunque no destaca particularmente. 6/10.",es,neutral
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),10,2019-12-12,Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.,en,positiva
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),2,2019-07-09,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),7.0,2019-05-08,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),2,2019-08-11,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),4,2019-06-02,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),6,2019-05-12,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),0.4,2019-12-17,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),7.4,2019-10-04,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),3.1,2019-04-26,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),3.4,2019-03-18,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),2,2019-02-22,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),0.2,2019-01-03,Una decepción considerando las altas expectativas generadas.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),4,2019-03-27,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),4,2019-05-28,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),8.6,2019-06-19,Visualmente impresionante con una narrativa emocionalmente satisfactoria.,en,positiva
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),6.9,2019-07-23,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Black Panther,2018,Marvel,Rotten Tomatoes (Critic),2.1,2019-05-08,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),2,2019-04-17,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),4,2019-09-15,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Black Panther,2018,Marvel,Rotten Tomatoes (Audience),10,2019-12-19,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Wonder Woman,2017,DC,IMDb,9,2019-01-27,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,9,2019-06-21,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 9/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,1,2019-12-09,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 1/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,3,2019-12-08,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 3/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,1,2019-05-06,Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 1/10.,es,neutral
+Wonder Woman,2017,DC,IMDb,8,2019-12-10,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.,es,negativa
+Wonder Woman,2017,DC,IMDb,4,2019-09-25,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 4/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,5,2019-10-06,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,2,2019-09-27,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 2/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,4,2019-05-12,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 4/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,3,2019-09-07,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,8,2019-07-03,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 8/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,6,2019-11-12,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,3,2019-12-20,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,9,2019-06-11,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 9/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,6,2019-03-22,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 6/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,7,2019-03-20,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 7/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,10,2019-12-13,"Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 10/10.",en,neutral
+Wonder Woman,2017,DC,IMDb,2,2019-10-23,Los efectos especiales no compensan la falta de profundidad en la historia. 2/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,8,2019-08-18,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.,es,negativa
+Wonder Woman,2017,DC,IMDb,7,2019-03-11,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,3,2019-02-25,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 3/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,8,2019-10-27,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 8/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,9,2019-11-08,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 9/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,4,2019-06-27,Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,5,2019-12-18,Los efectos especiales no compensan la falta de profundidad en la historia. 5/10.,es,negativa
+Wonder Woman,2017,DC,IMDb,4,2019-10-26,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 4/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,2,2019-10-26,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,10,2019-09-28,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 10/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,5,2019-01-21,Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 5/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,6,2019-09-15,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.,es,positiva
+Wonder Woman,2017,DC,IMDb,2,2019-01-18,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 2/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,5,2019-12-27,Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,3,2019-02-18,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 3/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,8,2019-03-01,Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 8/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,8,2019-03-01,Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 8/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,8,2019-11-10,Los efectos especiales no compensan la falta de profundidad en la historia. 8/10.,en,negativa
+Wonder Woman,2017,DC,IMDb,5,2019-09-13,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 5/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,1,2019-07-09,Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 1/10.,en,positiva
+Wonder Woman,2017,DC,IMDb,5,2019-02-25,No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 5/10.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),4,2019-08-13,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),3.5,2019-08-13,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),10,2019-08-11,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),1.7,2019-10-16,Los efectos visuales no pueden compensar las deficiencias en el guion.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),2,2019-09-09,"Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),8,2019-03-14,Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),2.8,2019-03-18,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),10,2019-10-28,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),10,2019-07-04,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),10,2019-10-22,Una conclusión épica que hace justicia a años de construcción cinematográfica.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),2,2019-01-16,Una decepción considerando las altas expectativas generadas.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),9.1,2019-04-20,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),4,2019-10-19,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),6.9,2019-10-15,Demuestra que las películas de superhéroes pueden ser arte de alto nivel.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),8,2019-02-20,Visualmente impresionante con una narrativa emocionalmente satisfactoria.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),9.6,2019-02-11,Visualmente impresionante con una narrativa emocionalmente satisfactoria.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),4.2,2019-02-26,Intenta hacer demasiado y termina sin hacer nada particularmente bien.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),4,2019-07-04,Carece de la profundidad necesaria para justificar su duración.,en,negativa
+Wonder Woman,2017,DC,Rotten Tomatoes (Critic),8.4,2019-03-09,Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.,en,positiva
+Wonder Woman,2017,DC,Rotten Tomatoes (Audience),6,2019-01-16,Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.,en,positiva

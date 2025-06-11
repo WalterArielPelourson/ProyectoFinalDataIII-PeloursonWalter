@@ -1,0 +1,3058 @@
+{
+    "dataset_info": {
+        "title": "Dataset de Reseñas de Películas de Superhéroes Icónicas",
+        "created_at": "2025-05-28 18:47:05",
+        "movies_count": 5,
+        "description": "Colección de reseñas y datos de películas icónicas de superhéroes, incluyendo puntuaciones, metadatos y análisis."
+    },
+    "movies": [
+        {
+            "title": "Avengers: Endgame",
+            "year": 2019,
+            "imdb_id": "tt4154796",
+            "universe": "Marvel",
+            "director": "Anthony Russo, Joe Russo",
+            "metadata": {
+                "box_office": {
+                    "budget": "356 millones USD",
+                    "domestic": "858.3 millones USD",
+                    "international": "1.939 mil millones USD",
+                    "worldwide": "2.798 mil millones USD"
+                },
+                "runtime": "181 minutos",
+                "release_date": "26 de abril de 2019",
+                "genres": [
+                    "Acción",
+                    "Aventura",
+                    "Drama",
+                    "Ciencia ficción"
+                ],
+                "rating": "PG-13",
+                "imdb_rating": 8.4,
+                "rt_critics": 94,
+                "rt_audience": 90,
+                "metacritic": 78
+            },
+            "reviews": {
+                "imdb": [
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-01-16",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.",
+                        "helpful_votes": 2,
+                        "total_votes": 110,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-11-06",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.",
+                        "helpful_votes": 1,
+                        "total_votes": 150,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-07-10",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.",
+                        "helpful_votes": 37,
+                        "total_votes": 80,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-11-24",
+                        "text": "Cumple con lo esperado, ni más ni menos. Buena para pasar el rato pero no revoluciona nada. 3/10.",
+                        "helpful_votes": 53,
+                        "total_votes": 137,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-01-24",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 4/10.",
+                        "helpful_votes": 17,
+                        "total_votes": 142,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-07-25",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 51,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-08-22",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 3/10.",
+                        "helpful_votes": 69,
+                        "total_votes": 63,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-06-13",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.",
+                        "helpful_votes": 24,
+                        "total_votes": 126,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-09-13",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 5/10.",
+                        "helpful_votes": 84,
+                        "total_votes": 77,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-09-20",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 4/10.",
+                        "helpful_votes": 10,
+                        "total_votes": 88,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-06-18",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.",
+                        "helpful_votes": 7,
+                        "total_votes": 142,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-02-08",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 10/10.",
+                        "helpful_votes": 14,
+                        "total_votes": 112,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-10-03",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.",
+                        "helpful_votes": 25,
+                        "total_votes": 68,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-06-15",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.",
+                        "helpful_votes": 61,
+                        "total_votes": 128,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-09-04",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.",
+                        "helpful_votes": 61,
+                        "total_votes": 132,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-08-13",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 4/10.",
+                        "helpful_votes": 71,
+                        "total_votes": 85,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-08-14",
+                        "text": "Cumple con lo esperado, ni más ni menos. Buena para pasar el rato pero no revoluciona nada. 8/10.",
+                        "helpful_votes": 56,
+                        "total_votes": 114,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-09-23",
+                        "text": "Una adición decente a la saga, aunque no destaca particularmente. 3/10.",
+                        "helpful_votes": 85,
+                        "total_votes": 148,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-05-01",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 5/10.",
+                        "helpful_votes": 81,
+                        "total_votes": 71,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-06-22",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 7/10.",
+                        "helpful_votes": 80,
+                        "total_votes": 83,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-10-06",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 8/10.",
+                        "helpful_votes": 76,
+                        "total_votes": 14,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-06-25",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 4/10.",
+                        "helpful_votes": 12,
+                        "total_votes": 100,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-04-14",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.",
+                        "helpful_votes": 2,
+                        "total_votes": 131,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-11-18",
+                        "text": "Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 2/10.",
+                        "helpful_votes": 27,
+                        "total_votes": 144,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-11-13",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 3/10.",
+                        "helpful_votes": 32,
+                        "total_votes": 16,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-01-13",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 5/10.",
+                        "helpful_votes": 63,
+                        "total_votes": 27,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-03-05",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 9/10.",
+                        "helpful_votes": 40,
+                        "total_votes": 44,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-11-26",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 1/10.",
+                        "helpful_votes": 43,
+                        "total_votes": 150,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-08-13",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.",
+                        "helpful_votes": 70,
+                        "total_votes": 22,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-10-13",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 1/10.",
+                        "helpful_votes": 68,
+                        "total_votes": 97,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-12-08",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 4/10.",
+                        "helpful_votes": 18,
+                        "total_votes": 97,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-09-18",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 9/10.",
+                        "helpful_votes": 50,
+                        "total_votes": 79,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-11-07",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 8/10.",
+                        "helpful_votes": 80,
+                        "total_votes": 58,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-11-26",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 4/10.",
+                        "helpful_votes": 71,
+                        "total_votes": 32,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-03-14",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.",
+                        "helpful_votes": 23,
+                        "total_votes": 49,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-12-17",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 2/10.",
+                        "helpful_votes": 63,
+                        "total_votes": 55,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-03-14",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.",
+                        "helpful_votes": 18,
+                        "total_votes": 110,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-06-22",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 7/10.",
+                        "helpful_votes": 5,
+                        "total_votes": 10,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-10-27",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.",
+                        "helpful_votes": 98,
+                        "total_votes": 65,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    }
+                ],
+                "rotten_tomatoes": [
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 8,
+                        "fresh": "rotten",
+                        "date": "2019-09-17",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-10-12",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 4,
+                        "fresh": "rotten",
+                        "date": "2019-02-20",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 87,
+                        "fresh": "fresh",
+                        "date": "2019-07-27",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-06-01",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-07-27",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 98,
+                        "fresh": "fresh",
+                        "date": "2019-02-25",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-07-05",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-11-03",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-09-27",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-04-26",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-05-10",
+                        "text": "Una decepción considerando las altas expectativas generadas.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-05-21",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 94,
+                        "fresh": "fresh",
+                        "date": "2019-01-14",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 16,
+                        "fresh": "rotten",
+                        "date": "2019-06-14",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-01-02",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 3,
+                        "fresh": "rotten",
+                        "date": "2019-10-24",
+                        "text": "Una decepción considerando las altas expectativas generadas.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-12-08",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 59,
+                        "fresh": "rotten",
+                        "date": "2019-03-21",
+                        "text": "Una decepción considerando las altas expectativas generadas.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 79,
+                        "fresh": "fresh",
+                        "date": "2019-02-10",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Dark Knight",
+            "year": 2008,
+            "imdb_id": "tt0468569",
+            "universe": "DC",
+            "director": "Christopher Nolan",
+            "metadata": {
+                "box_office": {
+                    "budget": "185 millones USD",
+                    "domestic": "534.9 millones USD",
+                    "international": "469.7 millones USD",
+                    "worldwide": "1.005 mil millones USD"
+                },
+                "runtime": "152 minutos",
+                "release_date": "18 de julio de 2008",
+                "genres": [
+                    "Acción",
+                    "Crimen",
+                    "Drama",
+                    "Thriller"
+                ],
+                "rating": "PG-13",
+                "imdb_rating": 9.0,
+                "rt_critics": 94,
+                "rt_audience": 94,
+                "metacritic": 84
+            },
+            "reviews": {
+                "imdb": [
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-02-07",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 10/10.",
+                        "helpful_votes": 86,
+                        "total_votes": 73,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-03-13",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.",
+                        "helpful_votes": 71,
+                        "total_votes": 137,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-02-25",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.",
+                        "helpful_votes": 15,
+                        "total_votes": 119,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-09-10",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.",
+                        "helpful_votes": 98,
+                        "total_votes": 109,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-07-23",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.",
+                        "helpful_votes": 43,
+                        "total_votes": 44,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-02-26",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 1/10.",
+                        "helpful_votes": 79,
+                        "total_votes": 79,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-10-10",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 5/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 4,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-07-12",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 1/10.",
+                        "helpful_votes": 3,
+                        "total_votes": 19,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-05-01",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 4/10.",
+                        "helpful_votes": 38,
+                        "total_votes": 91,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-05-05",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 8/10.",
+                        "helpful_votes": 69,
+                        "total_votes": 18,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-09-22",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.",
+                        "helpful_votes": 100,
+                        "total_votes": 78,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-07-02",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 1/10.",
+                        "helpful_votes": 53,
+                        "total_votes": 100,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-11-06",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.",
+                        "helpful_votes": 36,
+                        "total_votes": 37,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-01-18",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 4/10.",
+                        "helpful_votes": 70,
+                        "total_votes": 5,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-10-25",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.",
+                        "helpful_votes": 41,
+                        "total_votes": 147,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-01-02",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.",
+                        "helpful_votes": 16,
+                        "total_votes": 75,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-08-24",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 9/10.",
+                        "helpful_votes": 28,
+                        "total_votes": 26,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-08-16",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 7/10.",
+                        "helpful_votes": 48,
+                        "total_votes": 141,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-03-23",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 8/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 39,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-04-16",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.",
+                        "helpful_votes": 13,
+                        "total_votes": 72,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-04-08",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 7/10.",
+                        "helpful_votes": 46,
+                        "total_votes": 43,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-05-25",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 9/10.",
+                        "helpful_votes": 38,
+                        "total_votes": 21,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-07-09",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.",
+                        "helpful_votes": 58,
+                        "total_votes": 65,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-05-17",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 2/10.",
+                        "helpful_votes": 94,
+                        "total_votes": 85,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-12-22",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 8/10.",
+                        "helpful_votes": 24,
+                        "total_votes": 74,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-07-27",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 3/10.",
+                        "helpful_votes": 42,
+                        "total_votes": 114,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-07-26",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 5/10.",
+                        "helpful_votes": 26,
+                        "total_votes": 137,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-12-25",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 7/10.",
+                        "helpful_votes": 35,
+                        "total_votes": 42,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-01-23",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 6/10.",
+                        "helpful_votes": 62,
+                        "total_votes": 36,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-06-21",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 6/10.",
+                        "helpful_votes": 89,
+                        "total_votes": 127,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-05-28",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 7/10.",
+                        "helpful_votes": 18,
+                        "total_votes": 31,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-09-07",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 1/10.",
+                        "helpful_votes": 8,
+                        "total_votes": 15,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-10-15",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 10/10.",
+                        "helpful_votes": 46,
+                        "total_votes": 106,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-06-20",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.",
+                        "helpful_votes": 33,
+                        "total_votes": 33,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-04-26",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 7/10.",
+                        "helpful_votes": 72,
+                        "total_votes": 8,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-01-17",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 7/10.",
+                        "helpful_votes": 57,
+                        "total_votes": 89,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-10-25",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 1/10.",
+                        "helpful_votes": 18,
+                        "total_votes": 24,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-10-17",
+                        "text": "Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 10/10.",
+                        "helpful_votes": 56,
+                        "total_votes": 16,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    }
+                ],
+                "rotten_tomatoes": [
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-04-23",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 4,
+                        "fresh": "fresh",
+                        "date": "2019-12-28",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 4,
+                        "fresh": "rotten",
+                        "date": "2019-05-11",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 78,
+                        "fresh": "fresh",
+                        "date": "2019-07-20",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 40,
+                        "fresh": "rotten",
+                        "date": "2019-12-17",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-01-01",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-02-25",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 44,
+                        "fresh": "rotten",
+                        "date": "2019-04-14",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 93,
+                        "fresh": "fresh",
+                        "date": "2019-06-09",
+                        "text": "Visualmente impresionante con una narrativa emocionalmente satisfactoria.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 56,
+                        "fresh": "rotten",
+                        "date": "2019-07-19",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 100,
+                        "fresh": "fresh",
+                        "date": "2019-05-17",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 53,
+                        "fresh": "rotten",
+                        "date": "2019-04-04",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 77,
+                        "fresh": "fresh",
+                        "date": "2019-02-07",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-11-13",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 12,
+                        "fresh": "rotten",
+                        "date": "2019-01-25",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-06-08",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-05-18",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 69,
+                        "fresh": "fresh",
+                        "date": "2019-06-07",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 4,
+                        "fresh": "fresh",
+                        "date": "2019-07-03",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 99,
+                        "fresh": "fresh",
+                        "date": "2019-11-13",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Spider-Man: Into the Spider-Verse",
+            "year": 2018,
+            "imdb_id": "tt4633694",
+            "universe": "Marvel",
+            "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+            "metadata": {
+                "box_office": {
+                    "budget": "90 millones USD",
+                    "domestic": "190.2 millones USD",
+                    "international": "185.3 millones USD",
+                    "worldwide": "375.5 millones USD"
+                },
+                "runtime": "117 minutos",
+                "release_date": "14 de diciembre de 2018",
+                "genres": [
+                    "Animación",
+                    "Acción",
+                    "Aventura",
+                    "Familia"
+                ],
+                "rating": "PG",
+                "imdb_rating": 8.4,
+                "rt_critics": 97,
+                "rt_audience": 93,
+                "metacritic": 87
+            },
+            "reviews": {
+                "imdb": [
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-03-08",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 3/10.",
+                        "helpful_votes": 44,
+                        "total_votes": 3,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-11-12",
+                        "text": "Cumple con lo esperado, ni más ni menos. Buena para pasar el rato pero no revoluciona nada. 10/10.",
+                        "helpful_votes": 92,
+                        "total_votes": 33,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-06-09",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 6/10.",
+                        "helpful_votes": 2,
+                        "total_votes": 50,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-08-15",
+                        "text": "Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 4/10.",
+                        "helpful_votes": 11,
+                        "total_votes": 91,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-06-08",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 4/10.",
+                        "helpful_votes": 78,
+                        "total_votes": 89,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-05-22",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 1/10.",
+                        "helpful_votes": 3,
+                        "total_votes": 83,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-02-06",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 6/10.",
+                        "helpful_votes": 97,
+                        "total_votes": 53,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-01-26",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.",
+                        "helpful_votes": 1,
+                        "total_votes": 124,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-07-05",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 3/10.",
+                        "helpful_votes": 71,
+                        "total_votes": 115,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-02-19",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 2/10.",
+                        "helpful_votes": 78,
+                        "total_votes": 13,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-06-03",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 4/10.",
+                        "helpful_votes": 67,
+                        "total_votes": 46,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-05-28",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 10/10.",
+                        "helpful_votes": 99,
+                        "total_votes": 67,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-08-06",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 3/10.",
+                        "helpful_votes": 39,
+                        "total_votes": 84,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-09-17",
+                        "text": "Una adición decente a la saga, aunque no destaca particularmente. 5/10.",
+                        "helpful_votes": 59,
+                        "total_votes": 135,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-02-18",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.",
+                        "helpful_votes": 13,
+                        "total_votes": 7,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-01-20",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 8/10.",
+                        "helpful_votes": 81,
+                        "total_votes": 59,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-02-19",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.",
+                        "helpful_votes": 56,
+                        "total_votes": 15,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-05-05",
+                        "text": "Tiene sus momentos buenos y malos. Entretenida pero olvidable. 8/10.",
+                        "helpful_votes": 92,
+                        "total_votes": 46,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-12-17",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 3/10.",
+                        "helpful_votes": 87,
+                        "total_votes": 124,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-05-08",
+                        "text": "Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 6/10.",
+                        "helpful_votes": 63,
+                        "total_votes": 5,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-04-14",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 9/10.",
+                        "helpful_votes": 8,
+                        "total_votes": 130,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-09-11",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 10/10.",
+                        "helpful_votes": 97,
+                        "total_votes": 127,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-06-28",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 2/10.",
+                        "helpful_votes": 21,
+                        "total_votes": 139,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-10-06",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 9/10.",
+                        "helpful_votes": 88,
+                        "total_votes": 143,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-02-14",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 1/10.",
+                        "helpful_votes": 3,
+                        "total_votes": 8,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-08-20",
+                        "text": "Tiene sus momentos buenos y malos. Entretenida pero olvidable. 9/10.",
+                        "helpful_votes": 76,
+                        "total_votes": 34,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-04-11",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 7/10.",
+                        "helpful_votes": 45,
+                        "total_votes": 122,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-05-17",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 10/10.",
+                        "helpful_votes": 7,
+                        "total_votes": 30,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-11-15",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 10/10.",
+                        "helpful_votes": 71,
+                        "total_votes": 65,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-01-06",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 2/10.",
+                        "helpful_votes": 48,
+                        "total_votes": 29,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-01-21",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 8/10.",
+                        "helpful_votes": 51,
+                        "total_votes": 74,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-10-19",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 2/10.",
+                        "helpful_votes": 72,
+                        "total_votes": 53,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-01-23",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 5/10.",
+                        "helpful_votes": 47,
+                        "total_votes": 135,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-10-06",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 9/10.",
+                        "helpful_votes": 31,
+                        "total_votes": 37,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-08-14",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 1/10.",
+                        "helpful_votes": 77,
+                        "total_votes": 39,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-08-25",
+                        "text": "Tiene sus momentos buenos y malos. Entretenida pero olvidable. 4/10.",
+                        "helpful_votes": 56,
+                        "total_votes": 114,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-06-13",
+                        "text": "Una adición decente a la saga, aunque no destaca particularmente. 9/10.",
+                        "helpful_votes": 69,
+                        "total_votes": 54,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-09-18",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.",
+                        "helpful_votes": 46,
+                        "total_votes": 27,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    }
+                ],
+                "rotten_tomatoes": [
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-06-08",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-10-09",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 83,
+                        "fresh": "fresh",
+                        "date": "2019-11-08",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 4,
+                        "fresh": "fresh",
+                        "date": "2019-09-15",
+                        "text": "Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 4,
+                        "fresh": "rotten",
+                        "date": "2019-09-20",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-06-09",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-08-17",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-05-14",
+                        "text": "Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-11-05",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-04-25",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-11-11",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 40,
+                        "fresh": "rotten",
+                        "date": "2019-05-13",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 36,
+                        "fresh": "rotten",
+                        "date": "2019-07-04",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 43,
+                        "fresh": "rotten",
+                        "date": "2019-07-16",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-04-23",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-12-27",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 63,
+                        "fresh": "fresh",
+                        "date": "2019-10-10",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-03-14",
+                        "text": "Visualmente impresionante con una narrativa emocionalmente satisfactoria.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 31,
+                        "fresh": "rotten",
+                        "date": "2019-11-21",
+                        "text": "Una decepción considerando las altas expectativas generadas.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 14,
+                        "fresh": "rotten",
+                        "date": "2019-09-02",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Black Panther",
+            "year": 2018,
+            "imdb_id": "tt1825683",
+            "universe": "Marvel",
+            "director": "Ryan Coogler",
+            "metadata": {
+                "box_office": {
+                    "budget": "200 millones USD",
+                    "domestic": "700.1 millones USD",
+                    "international": "646.9 millones USD",
+                    "worldwide": "1.347 mil millones USD"
+                },
+                "runtime": "134 minutos",
+                "release_date": "16 de febrero de 2018",
+                "genres": [
+                    "Acción",
+                    "Aventura",
+                    "Ciencia ficción"
+                ],
+                "rating": "PG-13",
+                "imdb_rating": 7.3,
+                "rt_critics": 96,
+                "rt_audience": 79,
+                "metacritic": 88
+            },
+            "reviews": {
+                "imdb": [
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-08-01",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.",
+                        "helpful_votes": 55,
+                        "total_votes": 26,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-03-16",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 8/10.",
+                        "helpful_votes": 42,
+                        "total_votes": 32,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-08-07",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 9/10.",
+                        "helpful_votes": 45,
+                        "total_votes": 105,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-05-22",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.",
+                        "helpful_votes": 93,
+                        "total_votes": 125,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-11-20",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 4/10.",
+                        "helpful_votes": 45,
+                        "total_votes": 44,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-04-08",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 5/10.",
+                        "helpful_votes": 50,
+                        "total_votes": 36,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-01-17",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 10/10.",
+                        "helpful_votes": 7,
+                        "total_votes": 52,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-04-28",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 6/10.",
+                        "helpful_votes": 30,
+                        "total_votes": 92,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-02-01",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 4/10.",
+                        "helpful_votes": 79,
+                        "total_votes": 92,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-11-24",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 6/10.",
+                        "helpful_votes": 5,
+                        "total_votes": 21,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-02-15",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 2/10.",
+                        "helpful_votes": 39,
+                        "total_votes": 34,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-10-05",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 3/10.",
+                        "helpful_votes": 49,
+                        "total_votes": 97,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-10-12",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 7/10.",
+                        "helpful_votes": 10,
+                        "total_votes": 103,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-02-15",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 10/10.",
+                        "helpful_votes": 63,
+                        "total_votes": 61,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-05-02",
+                        "text": "Demasiado predecible y formulaica. Esperaba más innovación de una película tan anticipada. 1/10.",
+                        "helpful_votes": 60,
+                        "total_votes": 36,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-12-20",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 10/10.",
+                        "helpful_votes": 72,
+                        "total_votes": 114,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-08-15",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.",
+                        "helpful_votes": 29,
+                        "total_votes": 91,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-07-11",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 2/10.",
+                        "helpful_votes": 65,
+                        "total_votes": 107,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-06-13",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 9/10.",
+                        "helpful_votes": 76,
+                        "total_votes": 117,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-12-11",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 8/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 8,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-05-12",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.",
+                        "helpful_votes": 28,
+                        "total_votes": 19,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-10-04",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.",
+                        "helpful_votes": 96,
+                        "total_votes": 73,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-07-09",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 2/10.",
+                        "helpful_votes": 15,
+                        "total_votes": 136,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-11-06",
+                        "text": "Tiene sus momentos buenos y malos. Entretenida pero olvidable. 9/10.",
+                        "helpful_votes": 91,
+                        "total_votes": 148,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-09-18",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 4/10.",
+                        "helpful_votes": 84,
+                        "total_votes": 142,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-06-04",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 8/10.",
+                        "helpful_votes": 53,
+                        "total_votes": 4,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-05-11",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 2/10.",
+                        "helpful_votes": 100,
+                        "total_votes": 76,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-04-15",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 4/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 76,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-02-01",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.",
+                        "helpful_votes": 11,
+                        "total_votes": 53,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-02-15",
+                        "text": "Una oportunidad perdida. Podría haber sido mucho mejor con un guion más trabajado. 1/10.",
+                        "helpful_votes": 66,
+                        "total_votes": 8,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-12-22",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 6/10.",
+                        "helpful_votes": 45,
+                        "total_votes": 110,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-04-22",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.",
+                        "helpful_votes": 34,
+                        "total_votes": 104,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-08-23",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 10/10.",
+                        "helpful_votes": 90,
+                        "total_votes": 143,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-12-03",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 10/10.",
+                        "helpful_votes": 65,
+                        "total_votes": 42,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-02-15",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 10/10.",
+                        "helpful_votes": 62,
+                        "total_votes": 9,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-05-19",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.",
+                        "helpful_votes": 21,
+                        "total_votes": 11,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-03-28",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 10/10.",
+                        "helpful_votes": 21,
+                        "total_votes": 141,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-12-27",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 5/10.",
+                        "helpful_votes": 92,
+                        "total_votes": 110,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-12-20",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 7/10.",
+                        "helpful_votes": 100,
+                        "total_votes": 78,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-05-01",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.",
+                        "helpful_votes": 97,
+                        "total_votes": 105,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-07-05",
+                        "text": "Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 1/10.",
+                        "helpful_votes": 95,
+                        "total_votes": 83,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-05-09",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.",
+                        "helpful_votes": 24,
+                        "total_votes": 30,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-01-03",
+                        "text": "Una adición decente a la saga, aunque no destaca particularmente. 6/10.",
+                        "helpful_votes": 48,
+                        "total_votes": 36,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    }
+                ],
+                "rotten_tomatoes": [
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-12-12",
+                        "text": "Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-07-09",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 70,
+                        "fresh": "fresh",
+                        "date": "2019-05-08",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-08-11",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-06-02",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-05-12",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 4,
+                        "fresh": "rotten",
+                        "date": "2019-12-17",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 74,
+                        "fresh": "fresh",
+                        "date": "2019-10-04",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 31,
+                        "fresh": "rotten",
+                        "date": "2019-04-26",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 34,
+                        "fresh": "rotten",
+                        "date": "2019-03-18",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-02-22",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-01-03",
+                        "text": "Una decepción considerando las altas expectativas generadas.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-03-27",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-05-28",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 86,
+                        "fresh": "fresh",
+                        "date": "2019-06-19",
+                        "text": "Visualmente impresionante con una narrativa emocionalmente satisfactoria.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 69,
+                        "fresh": "fresh",
+                        "date": "2019-07-23",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 21,
+                        "fresh": "rotten",
+                        "date": "2019-05-08",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-04-17",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-09-15",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-12-19",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Wonder Woman",
+            "year": 2017,
+            "imdb_id": "tt0451279",
+            "universe": "DC",
+            "director": "Patty Jenkins",
+            "metadata": {
+                "box_office": {
+                    "budget": "150 millones USD",
+                    "domestic": "412.6 millones USD",
+                    "international": "409.3 millones USD",
+                    "worldwide": "821.8 millones USD"
+                },
+                "runtime": "141 minutos",
+                "release_date": "2 de junio de 2017",
+                "genres": [
+                    "Acción",
+                    "Aventura",
+                    "Fantasía"
+                ],
+                "rating": "PG-13",
+                "imdb_rating": 7.4,
+                "rt_critics": 93,
+                "rt_audience": 83,
+                "metacritic": 76
+            },
+            "reviews": {
+                "imdb": [
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-01-27",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 9/10.",
+                        "helpful_votes": 41,
+                        "total_votes": 81,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-06-21",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 9/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 127,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-12-09",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 1/10.",
+                        "helpful_votes": 37,
+                        "total_votes": 4,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-12-08",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 3/10.",
+                        "helpful_votes": 91,
+                        "total_votes": 107,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-05-06",
+                        "text": "Técnicamente competente pero le falta algo de alma. No me arrepiento de haberla visto. 1/10.",
+                        "helpful_votes": 86,
+                        "total_votes": 8,
+                        "language": "es",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-12-10",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.",
+                        "helpful_votes": 75,
+                        "total_votes": 83,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-09-25",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 4/10.",
+                        "helpful_votes": 31,
+                        "total_votes": 50,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-10-06",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.",
+                        "helpful_votes": 59,
+                        "total_votes": 18,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-09-27",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 2/10.",
+                        "helpful_votes": 99,
+                        "total_votes": 72,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-05-12",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 4/10.",
+                        "helpful_votes": 76,
+                        "total_votes": 81,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-09-07",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 3/10.",
+                        "helpful_votes": 18,
+                        "total_votes": 48,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-07-03",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 8/10.",
+                        "helpful_votes": 43,
+                        "total_votes": 130,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-11-12",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 6/10.",
+                        "helpful_votes": 23,
+                        "total_votes": 91,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-12-20",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 3/10.",
+                        "helpful_votes": 57,
+                        "total_votes": 94,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-06-11",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 9/10.",
+                        "helpful_votes": 6,
+                        "total_votes": 62,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-03-22",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 6/10.",
+                        "helpful_votes": 14,
+                        "total_votes": 47,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-03-20",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 7/10.",
+                        "helpful_votes": 39,
+                        "total_votes": 76,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-12-13",
+                        "text": "Algunos personajes están bien desarrollados, otros no tanto. En general es una experiencia mixta. 10/10.",
+                        "helpful_votes": 97,
+                        "total_votes": 103,
+                        "language": "en",
+                        "sentiment": "neutral"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-10-23",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 2/10.",
+                        "helpful_votes": 78,
+                        "total_votes": 96,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-08-18",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 8/10.",
+                        "helpful_votes": 52,
+                        "total_votes": 133,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 7,
+                        "date": "2019-03-11",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 7/10.",
+                        "helpful_votes": 48,
+                        "total_votes": 1,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-02-25",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 3/10.",
+                        "helpful_votes": 89,
+                        "total_votes": 90,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-10-27",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 8/10.",
+                        "helpful_votes": 76,
+                        "total_votes": 24,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 9,
+                        "date": "2019-11-08",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 9/10.",
+                        "helpful_votes": 64,
+                        "total_votes": 81,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-06-27",
+                        "text": "Una conclusión épica que hace justicia a todos los personajes. Visualmente impresionante y emocionalmente satisfactoria. 4/10.",
+                        "helpful_votes": 83,
+                        "total_votes": 43,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-12-18",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 5/10.",
+                        "helpful_votes": 46,
+                        "total_votes": 56,
+                        "language": "es",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 4,
+                        "date": "2019-10-26",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 4/10.",
+                        "helpful_votes": 83,
+                        "total_votes": 141,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-10-26",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 2/10.",
+                        "helpful_votes": 26,
+                        "total_votes": 87,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 10,
+                        "date": "2019-09-28",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 10/10.",
+                        "helpful_votes": 51,
+                        "total_votes": 27,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-01-21",
+                        "text": "Una película increíble que redefine el género de superhéroes. La actuación fue espectacular y los efectos especiales impresionantes. 5/10.",
+                        "helpful_votes": 71,
+                        "total_votes": 150,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 6,
+                        "date": "2019-09-15",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 6/10.",
+                        "helpful_votes": 91,
+                        "total_votes": 120,
+                        "language": "es",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 2,
+                        "date": "2019-01-18",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 2/10.",
+                        "helpful_votes": 27,
+                        "total_votes": 84,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-12-27",
+                        "text": "Obra maestra del cine de superhéroes. La narrativa y el desarrollo de personajes son excepcionales. Definitivamente vale la pena verla varias veces. 5/10.",
+                        "helpful_votes": 94,
+                        "total_votes": 3,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 3,
+                        "date": "2019-02-18",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 3/10.",
+                        "helpful_votes": 91,
+                        "total_votes": 116,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-03-01",
+                        "text": "Decepcionante considerando todo el hype. La trama tiene agujeros y algunas escenas son innecesariamente largas. 8/10.",
+                        "helpful_votes": 66,
+                        "total_votes": 17,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-03-01",
+                        "text": "Una experiencia cinematográfica que no olvidaré. La dirección y la música complementan perfectamente la historia. 8/10.",
+                        "helpful_votes": 54,
+                        "total_votes": 20,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 8,
+                        "date": "2019-11-10",
+                        "text": "Los efectos especiales no compensan la falta de profundidad en la historia. 8/10.",
+                        "helpful_votes": 31,
+                        "total_votes": 59,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-09-13",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 5/10.",
+                        "helpful_votes": 51,
+                        "total_votes": 125,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 1,
+                        "date": "2019-07-09",
+                        "text": "Superó todas mis expectativas. Los momentos emotivos están perfectamente balanceados con la acción. 1/10.",
+                        "helpful_votes": 25,
+                        "total_votes": 84,
+                        "language": "en",
+                        "sentiment": "positiva"
+                    },
+                    {
+                        "source": "IMDb",
+                        "rating": 5,
+                        "date": "2019-02-25",
+                        "text": "No entiendo por qué a tanta gente le gusta. Los personajes toman decisiones ilógicas y el ritmo es inconsistente. 5/10.",
+                        "helpful_votes": 12,
+                        "total_votes": 105,
+                        "language": "en",
+                        "sentiment": "negativa"
+                    }
+                ],
+                "rotten_tomatoes": [
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-08-13",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 35,
+                        "fresh": "rotten",
+                        "date": "2019-08-13",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-08-11",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 17,
+                        "fresh": "rotten",
+                        "date": "2019-10-16",
+                        "text": "Los efectos visuales no pueden compensar las deficiencias en el guion.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-09-09",
+                        "text": "Demasiado larga y autoindulgente, pierde el rumbo en varios momentos clave.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 4,
+                        "fresh": "fresh",
+                        "date": "2019-03-14",
+                        "text": "Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 28,
+                        "fresh": "rotten",
+                        "date": "2019-03-18",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-10-28",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-07-04",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 5,
+                        "fresh": "fresh",
+                        "date": "2019-10-22",
+                        "text": "Una conclusión épica que hace justicia a años de construcción cinematográfica.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 1,
+                        "fresh": "rotten",
+                        "date": "2019-01-16",
+                        "text": "Una decepción considerando las altas expectativas generadas.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 91,
+                        "fresh": "fresh",
+                        "date": "2019-04-20",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-10-19",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 69,
+                        "fresh": "fresh",
+                        "date": "2019-10-15",
+                        "text": "Demuestra que las películas de superhéroes pueden ser arte de alto nivel.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 4,
+                        "fresh": "fresh",
+                        "date": "2019-02-20",
+                        "text": "Visualmente impresionante con una narrativa emocionalmente satisfactoria.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 96,
+                        "fresh": "fresh",
+                        "date": "2019-02-11",
+                        "text": "Visualmente impresionante con una narrativa emocionalmente satisfactoria.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 42,
+                        "fresh": "rotten",
+                        "date": "2019-02-26",
+                        "text": "Intenta hacer demasiado y termina sin hacer nada particularmente bien.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 2,
+                        "fresh": "rotten",
+                        "date": "2019-07-04",
+                        "text": "Carece de la profundidad necesaria para justificar su duración.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Critic",
+                        "score": 84,
+                        "fresh": "fresh",
+                        "date": "2019-03-09",
+                        "text": "Los directores logran equilibrar perfectamente la acción con el desarrollo de personajes.",
+                        "language": "en"
+                    },
+                    {
+                        "source": "Rotten Tomatoes",
+                        "reviewer_type": "Audience",
+                        "score": 3,
+                        "fresh": "fresh",
+                        "date": "2019-01-16",
+                        "text": "Una película que redefine el género y establece un nuevo estándar para las películas de superhéroes.",
+                        "language": "en"
+                    }
+                ]
+            }
+        }
+    ]
+}
